@@ -7,22 +7,25 @@
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
 
-        self.li=[]
+        self.prev=None
+        self.flag=True
+        
         def inord(node):
-            if not node:
-                return 
+            if not node or not self.flag:
+                return
             
             inord(node.left)
-            self.li.append(node.val)
-            inord(node.right)
-        inord(root) 
-        
-        for i in range(len(self.li)-1):
-            if self.li[i]>=self.li[i+1]:
-                return False
-        
-        return True
 
+            if self.prev is not None and node.val<=self.prev:
+                self.flag=False
+                return 
+            
+            self.prev=node.val
+
+            inord(node.right)
+        
+        inord(root)
+        return self.flag
 
         
         
