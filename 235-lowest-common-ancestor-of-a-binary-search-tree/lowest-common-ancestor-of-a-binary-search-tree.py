@@ -8,46 +8,38 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
 
-        self.lip=[]
-        self.liq=[]
-        def fp(node,li):
-            if not node:
-                return
-            li.append(node)
-            if node==p:
-                self.lip=li.copy()
-                return
-            fp(node.left,li)
-            fp(node.right,li)
-            li.pop()
-        
-        fp(root,[])
-        def fq(node,li):
-            if not node:
-                return
-            li.append(node)
-            if node==q:
-                self.liq=li.copy()
-                return
-            fq(node.left,li)
-            fq(node.right,li)
-            li.pop()
-        
-        fq(root,[])
 
-        if p in self.liq:
+        li_p=[]
+        li_q=[]
+        curr=root
+        while curr:
+            li_p.append(curr)
+            if p.val==curr.val:
+                break
+            elif p.val>curr.val:
+                curr=curr.right
+            else:
+                curr=curr.left
+
+        curr=root
+        while curr:
+            li_q.append(curr)
+            if q.val==curr.val:
+                break
+            elif q.val>curr.val:
+                curr=curr.right
+            else:
+                curr=curr.left
+
+        if p in li_q:
             return p
-        if q in self.lip:
+        if q in li_p:
             return q
-        res=None    
-        for val in self.lip:
-            if val in self.liq:
-                res = val
+        res=None
+        for i in li_p:
+            if i in li_q:
+                res=i
         return res
-        
 
 
-
-
-
-        
+       
