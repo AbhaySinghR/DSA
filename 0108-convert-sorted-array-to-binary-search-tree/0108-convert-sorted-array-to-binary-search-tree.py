@@ -9,14 +9,14 @@ class Solution:
 
         def bst(l,r):
             if l>r:
-                return None
+                return
+            
             mid=(l+r)//2
             root=TreeNode(nums[mid])
             root.left=bst(l,mid-1)
             root.right=bst(mid+1,r)
             return root
-        return bst(0,len(nums)-1)
         
-
+        return bst(0,len(nums)-1)
         
         
