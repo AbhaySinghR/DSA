@@ -219,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AbhaySinghR/DSA/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AbhaySinghR/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
