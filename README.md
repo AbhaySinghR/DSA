@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhaySinghR/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhaySinghR/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhaySinghR/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhaySinghR/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhaySinghR/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhaySinghR/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhaySinghR/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhaySinghR/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhaySinghR/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhaySinghR/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AbhaySinghR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AbhaySinghR/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhaySinghR/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhaySinghR/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhaySinghR/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,9 +236,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AbhaySinghR/DSA/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AbhaySinghR/DSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
