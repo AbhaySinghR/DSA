@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbhaySinghR/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AbhaySinghR/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AbhaySinghR/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AbhaySinghR/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AbhaySinghR/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhaySinghR/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhaySinghR/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AbhaySinghR/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 ## Hash Table
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhaySinghR/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/AbhaySinghR/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
