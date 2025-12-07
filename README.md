@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AbhaySinghR/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AbhaySinghR/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhaySinghR/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AbhaySinghR/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AbhaySinghR/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AbhaySinghR/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AbhaySinghR/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AbhaySinghR/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySinghR/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AbhaySinghR/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AbhaySinghR/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AbhaySinghR/DSA/tree/master/1254-number-of-closed-islands) |
 ## Graph
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AbhaySinghR/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
