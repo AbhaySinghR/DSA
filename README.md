@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhaySinghR/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AbhaySinghR/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/AbhaySinghR/DSA/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/AbhaySinghR/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySinghR/DSA/tree/master/0503-next-greater-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/AbhaySinghR/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
