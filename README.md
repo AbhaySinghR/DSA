@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhaySinghR/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AbhaySinghR/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/AbhaySinghR/DSA/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,5 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhaySinghR/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/AbhaySinghR/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AbhaySinghR/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
