@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhaySinghR/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AbhaySinghR/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/AbhaySinghR/DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
