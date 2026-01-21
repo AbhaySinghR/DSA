@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AbhaySinghR/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/AbhaySinghR/DSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhaySinghR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AbhaySinghR/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhaySinghR/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/AbhaySinghR/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhaySinghR/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
