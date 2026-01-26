@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AbhaySinghR/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AbhaySinghR/DSA/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AbhaySinghR/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhaySinghR/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AbhaySinghR/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/AbhaySinghR/DSA/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/AbhaySinghR/DSA/tree/master/0257-binary-tree-paths) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhaySinghR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhaySinghR/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union-Find
 |  |
