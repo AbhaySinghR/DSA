@@ -1,23 +1,38 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        
+
+
+        if len(p)>len(s):
+            return []
         idx=[]
-        i=0
-        j=len(p)-1
-        p=''.join(sorted(p))
-        while j<len(s):
-            if j==len(s)-1:
-                new_str=s[i:]
-                new_str=''.join(sorted(new_str))    
-            else:
-                new_str=s[i:j+1]
-                new_str=''.join(sorted(new_str))
-            if new_str==p:
-                idx.append(i)
-            i+=1
-            j+=1
+        pmap={}
+        smap={}
+        for i in range(len(p)):
+            pmap[p[i]]=pmap.get(p[i],0)+1
+            smap[s[i]]=smap.get(s[i],0)+1
+        
+        if pmap==smap:
+            idx.append(0)
+        l=0
+        r=len(p)
+        while r<len(s):
+            smap[s[r]]=smap.get(s[r],0)+1
+            smap[s[l]]=smap.get(s[l],0)-1
+            if smap[s[l]]==0:
+                del smap[s[l]]
+            if smap==pmap:
+                idx.append(l+1)
+            l+=1
+            r+=1
         
         return idx
+            
+
+
+
+        
+
+
 
 
 
