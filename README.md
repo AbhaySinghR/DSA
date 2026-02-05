@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/AbhaySinghR/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/AbhaySinghR/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhaySinghR/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AbhaySinghR/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhaySinghR/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AbhaySinghR/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/AbhaySinghR/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhaySinghR/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/AbhaySinghR/DSA/tree/master/1695-maximum-erasure-value) |
 | [2404-most-frequent-even-element](https://github.com/AbhaySinghR/DSA/tree/master/2404-most-frequent-even-element) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/AbhaySinghR/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhaySinghR/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/AbhaySinghR/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhaySinghR/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AbhaySinghR/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhaySinghR/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhaySinghR/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/AbhaySinghR/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/AbhaySinghR/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhaySinghR/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/AbhaySinghR/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AbhaySinghR/DSA/tree/master/1208-get-equal-substrings-within-budget) |
