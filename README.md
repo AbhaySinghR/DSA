@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhaySinghR/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhaySinghR/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AbhaySinghR/DSA/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhaySinghR/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhaySinghR/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AbhaySinghR/DSA/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhaySinghR/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhaySinghR/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AbhaySinghR/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbhaySinghR/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AbhaySinghR/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AbhaySinghR/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbhaySinghR/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Merge Sort
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2404-most-frequent-even-element](https://github.com/AbhaySinghR/DSA/tree/master/2404-most-frequent-even-element) |
 ## Quickselect
