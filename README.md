@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AbhaySinghR/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AbhaySinghR/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AbhaySinghR/DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/AbhaySinghR/DSA/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/AbhaySinghR/DSA/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AbhaySinghR/DSA/tree/master/1208-get-equal-substrings-within-budget) |
