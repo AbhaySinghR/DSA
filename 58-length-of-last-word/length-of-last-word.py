@@ -1,14 +1,17 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-
-
-        li=s.split(' ')
-        i=len(li)-1
+        i=len(s)-1
+        cnt=0
         while i>=0:
-            if li[i] not in [' ','']:
-                res=len(li[i])
+            if s[i]!=' ':
                 break
             i-=1
-        
-        return res
-        
+        while i>=0:
+            if s[i]!=' ':
+                cnt+=1
+            else:
+                break
+            i-=1
+    
+        return cnt
+
