@@ -3,12 +3,15 @@ class Solution:
 
         i=0
         j=len(height)-1
-        max_water=0
+        max_water=float('-inf')
         while i<j:
-            max_water=max(max_water,min(height[i],height[j])*(j-i))
-            if height[i]<=height[j]:
+            min_h=min(height[i],height[j])
+            max_water=max(max_water,min_h*(j-i))
+            if height[i]<height[j]:
                 i+=1
             else:
                 j-=1
         
         return max_water
+            
+        
