@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhaySinghR/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/AbhaySinghR/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/AbhaySinghR/DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AbhaySinghR/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AbhaySinghR/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/AbhaySinghR/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbhaySinghR/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Merge Sort
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/AbhaySinghR/DSA/tree/master/3829-design-ride-sharing-system) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AbhaySinghR/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
