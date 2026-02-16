@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AbhaySinghR/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/AbhaySinghR/DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySinghR/DSA/tree/master/0503-next-greater-element-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AbhaySinghR/DSA/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AbhaySinghR/DSA/tree/master/0525-contiguous-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AbhaySinghR/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [3829-design-ride-sharing-system](https://github.com/AbhaySinghR/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Iterator
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbhaySinghR/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AbhaySinghR/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AbhaySinghR/DSA/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhaySinghR/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
@@ -455,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AbhaySinghR/DSA/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
