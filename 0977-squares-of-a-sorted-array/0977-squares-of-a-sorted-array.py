@@ -16,16 +16,10 @@ class Solution:
                 res[k]=l
                 i+=1
                 k-=1
-            elif l==r and i!=j:
-                res[k]=l
-                res[k-1]=r
-                k=k-2
-                i+=1
-                j-=1
             else:
                 res[k]=l
+                k-=1
                 i+=1
-                j-=1
         return res
 
 
