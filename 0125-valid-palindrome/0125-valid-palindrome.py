@@ -6,7 +6,12 @@ class Solution:
             if i.isalnum():
                 ns+=i.lower()
         
-        if ns==ns[::-1]:
-            return True
-        return False
+        i=0
+        j=len(ns)-1
+        while i<j:
+            if ns[i]!=ns[j]:
+                return False
+            i+=1
+            j-=1
         
+        return True
