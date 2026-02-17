@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AbhaySinghR/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AbhaySinghR/DSA/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/AbhaySinghR/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhaySinghR/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AbhaySinghR/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AbhaySinghR/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AbhaySinghR/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhaySinghR/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AbhaySinghR/DSA/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/AbhaySinghR/DSA/tree/master/0881-boats-to-save-people) |
