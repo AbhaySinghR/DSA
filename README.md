@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/AbhaySinghR/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhaySinghR/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhaySinghR/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2938-separate-black-and-white-balls](https://github.com/AbhaySinghR/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/AbhaySinghR/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AbhaySinghR/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhaySinghR/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2938-separate-black-and-white-balls](https://github.com/AbhaySinghR/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AbhaySinghR/DSA/tree/master/0134-gas-station) |
 | [0881-boats-to-save-people](https://github.com/AbhaySinghR/DSA/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbhaySinghR/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2938-separate-black-and-white-balls](https://github.com/AbhaySinghR/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Queue
 |  |
 | ------- |
