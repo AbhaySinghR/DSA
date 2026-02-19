@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbhaySinghR/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AbhaySinghR/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2404-most-frequent-even-element](https://github.com/AbhaySinghR/DSA/tree/master/2404-most-frequent-even-element) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AbhaySinghR/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhaySinghR/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/AbhaySinghR/DSA/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbhaySinghR/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AbhaySinghR/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Union-Find
 |  |
 | ------- |
