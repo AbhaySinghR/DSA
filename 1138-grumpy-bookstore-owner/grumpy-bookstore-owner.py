@@ -1,29 +1,33 @@
 class Solution:
     def maxSatisfied(self, customers: List[int], grumpy: List[int], minutes: int) -> int:
 
-        best_max_cond=float('-inf')
-        base_happy=0
-        for i in range(len(customers)):
+
+        base=0
+        for i in range(len(grumpy)):
             if grumpy[i]==0:
-                base_happy+=customers[i]
+                base+=customers[i]
         
-        max_cond_happy_cust=0
+
+        best_max=float('-inf')
+        running_max=0
         for i in range(minutes):
             if grumpy[i]==1:
-                max_cond_happy_cust+=customers[i]
-            
-        best_max_cond=max(max_cond_happy_cust,best_max_cond)
+                running_max+=customers[i]
+
+        best_max=max(running_max,best_max)
+
         l=0
         r=minutes
-        while r<len(customers):
+        while r<len(grumpy):
             if grumpy[r]==1:
-                max_cond_happy_cust+=customers[r]
+                running_max+=customers[r]
             if grumpy[l]==1:
-                max_cond_happy_cust-=customers[l]
-            
+                running_max-=customers[l]
+
             l+=1
             r+=1
-            best_max_cond=max(max_cond_happy_cust,best_max_cond)
+            best_max=max(best_max,running_max)
+        
+        return base+best_max
 
-        return base_happy+best_max_cond
         
