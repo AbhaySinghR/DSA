@@ -15,7 +15,7 @@ class Solution:
         res=''
     
         for i in range(len(s)):
-            if i not in st:
+            if i not in a:
                 res+=s[i]
         
         return res
