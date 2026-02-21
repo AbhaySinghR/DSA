@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhaySinghR/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AbhaySinghR/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AbhaySinghR/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/AbhaySinghR/DSA/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySinghR/DSA/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AbhaySinghR/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/AbhaySinghR/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/AbhaySinghR/DSA/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/AbhaySinghR/DSA/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/AbhaySinghR/DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AbhaySinghR/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhaySinghR/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AbhaySinghR/DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/AbhaySinghR/DSA/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhaySinghR/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AbhaySinghR/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AbhaySinghR/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AbhaySinghR/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/AbhaySinghR/DSA/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
