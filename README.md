@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhaySinghR/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhaySinghR/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhaySinghR/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbhaySinghR/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AbhaySinghR/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AbhaySinghR/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AbhaySinghR/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AbhaySinghR/DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AbhaySinghR/DSA/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbhaySinghR/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AbhaySinghR/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AbhaySinghR/DSA/tree/master/0200-number-of-islands) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbhaySinghR/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AbhaySinghR/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AbhaySinghR/DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbhaySinghR/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AbhaySinghR/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhaySinghR/DSA/tree/master/1248-count-number-of-nice-subarrays) |
