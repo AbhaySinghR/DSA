@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySinghR/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AbhaySinghR/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AbhaySinghR/DSA/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AbhaySinghR/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search
 |  |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AbhaySinghR/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AbhaySinghR/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/AbhaySinghR/DSA/tree/master/0901-online-stock-span) |
 | [3829-design-ride-sharing-system](https://github.com/AbhaySinghR/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Iterator
 |  |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AbhaySinghR/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhaySinghR/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AbhaySinghR/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AbhaySinghR/DSA/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/AbhaySinghR/DSA/tree/master/0901-online-stock-span) |
 | [3829-design-ride-sharing-system](https://github.com/AbhaySinghR/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Counting Sort
 |  |
