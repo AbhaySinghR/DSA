@@ -1,16 +1,25 @@
-from collections import deque
-
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        if not root:
-            return True
-        q = deque([(root, root)])
-        while q:
-            nodeL, nodeR = q.popleft()
-            if not nodeL and not nodeR:
-                continue
-            if not nodeL or not nodeR or nodeL.val != nodeR.val:
+
+        def symm(n1,n2):
+
+            if n1==None and n2==None:
+                return True
+            if n1==None or n2==None:
                 return False
-            q.append((nodeL.left, nodeR.right))
-            q.append((nodeL.right, nodeR.left))
-        return True
+            
+            if n1.val!=n2.val:
+                return False
+            
+            a=symm(n1.left,n2.right)
+            b=symm(n1.right,n2.left)
+
+            return a and b
+        
+        return symm(root, root)
