@@ -7,19 +7,20 @@
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
 
-        def symm(n1,n2):
 
-            if n1==None and n2==None:
+        def symm(node1,node2):
+
+            if node1 is None and node2 is None:
                 return True
-            if n1==None or n2==None:
+            if node1 is None or node2 is None:
                 return False
             
-            if n1.val!=n2.val:
+            if node1.val!=node2.val:
                 return False
             
-            a=symm(n1.left,n2.right)
-            b=symm(n1.right,n2.left)
-
-            return a and b
+            l=symm(node1.left,node2.right)
+            r=symm(node1.right,node2.left)
+            return l and r
         
-        return symm(root, root)
+        return symm(root,root)
+        
