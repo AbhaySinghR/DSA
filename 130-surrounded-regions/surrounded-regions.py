@@ -4,29 +4,39 @@ class Solution:
         Do not return anything, modify board in-place instead.
         """
 
-        n=len(board)
-        m=len(board[0])
-        self.hmap={}
+        m=len(board)
+        n=len(board[0])
+        vis=set()
 
-        def dfs(i,j,board):
-            self.hmap[(i,j)]=1
-            dir=[(0,1),(1,0),(0,-1),(-1,0)]
-            for r,c in dir:
-                n_i = i + r
-                n_j = j + c
-                if ((0<=n_i<len(board)) and (0<=n_j<len(board[0]))):
-                    if board[n_i][n_j]=='O' and self.hmap[(n_i,n_j)]!=1:
-                        dfs(n_i,n_j,board)
 
-        for i in range(n):
-            for j in range(m):
-                if board[i][j]=='O':
-                    self.hmap[(i,j)]=0
+        def Surr(i,j,board,vis):
+            vis.add((i,j))
+            q=deque()
+            q.append((i,j))
+            while q:
+                r,c=q.popleft()
+                dir=[(0,1),(1,0),(-1,0),(0,-1)]
+                for dr, dc in dir:
+                    n_i,n_j=dr+r, dc+c
+                    if (n_i>=0 and n_i<m) and (n_j>=0 and n_j<n):
+                        if board[n_i][n_j]=="O" and (n_i,n_j) not in vis:
+                            vis.add((n_i,n_j))
+                            q.append((n_i,n_j))
 
-        for (i,j),val in self.hmap.items():
-            if ((i==0 or i==n-1) or (j==0 or j==m-1)) and self.hmap[(i,j)]!=1:
-                dfs(i,j,board)
+        
+        for i in range(m):
+            for j in range(n):
+                if board[i][j]=="O" and (i,j) not in vis:
+                    if (i==0 or i==m-1) or (j==0 or j==n-1):
+                        Surr(i,j,board,vis)
+        
+        for i in range(m):
+            for j in range(n):
+                if (i,j) not in vis and board[i][j]=="O":
+                    board[i][j]="X"
 
-        for (i,j), val in self.hmap.items():
-            if val==0:
-                board[i][j]='X'
+
+
+
+
+        
