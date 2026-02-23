@@ -7,20 +7,13 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
 
-        if root is None:
-            return 0
-        cnt=0
-        q= deque([root])
-        while q:
-            size_q=len(q)
-            while size_q:
-                node=q.popleft()
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-                size_q-=1
-            cnt+=1
-        
-        return cnt
+        def maxD(node):
+            if node is None:
+                return 0
+            
+            l=maxD(node.left)
+            r=maxD(node.right)
+            return 1 + max(l,r)
+
+        return maxD(root)
         
