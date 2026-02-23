@@ -7,20 +7,22 @@
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
 
-        def min_height(node):
-            if not node:
+        def minD(node):
+
+            if node is None:
                 return 0
             
-            left_height=min_height(node.left)
-            right_height=min_height(node.right)
+            l=minD(node.left)
+            r=minD(node.right)
             
-            if node.left and node.right:
-                height=1+min(left_height,right_height)
-            else:
-                height=1+max(left_height,right_height)
-
-            return height
-        return min_height(root)
+            if l==0:
+                return 1 + r
+            if r==0:
+                return 1 + l 
+            
+            return 1 + min(l,r)
+            
+        return minD(root)
 
 
 
