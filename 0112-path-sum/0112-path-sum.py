@@ -7,21 +7,25 @@
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
 
-        
-        def psum(node,sum_t):
+
+
+
+        if root is None:
+            return False
+        def pt(node,s):
 
             if node is None:
                 return False
-            sum_t+=node.val
-            
-            if node.left==None and node.right==None:
-                if sum_t==targetSum:
+            s+=node.val
+            if node.left is None and node.right is None:
+                if s==targetSum:
                     return True
                 else:
                     return False
-
-            l=psum(node.left,sum_t)
-            r=psum(node.right,sum_t)
+            
+            l=pt(node.left,s)
+            r=pt(node.right,s)
             return l or r
         
-        return psum(root,0)
+        return pt(root,0)
+        
