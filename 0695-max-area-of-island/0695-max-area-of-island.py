@@ -1,38 +1,44 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
 
+        m=len(grid)
+        n=len(grid[0])
+        vis_arr=[]
+        for i in range(m):
+            row=[]
+            for j in range(n):
+                row.append(0)
+            vis_arr.append(row)
 
-        n=len(grid)
-        m=len(grid[0])
-        visited=set()
-        self.max_area=0
 
-
-        def bfs(i,j,visited):
+        
+        def maxArea(i,j,grid, vis_arr):
+            vis_arr[i][j]=1
             q=deque()
-            area=1
             q.append((i,j))
+            area=1
             while q:
-                ci,cj=q.popleft()
-                dir=[(0,1),(1,0),(0,-1),(-1,0)]
-                for r,c in dir:
-                    n_i = ci + r
-                    n_j = cj + c
-                    if ((0<=n_i<n) and (0<=n_j<m)) and (n_i,n_j) not in visited and grid[n_i][n_j]==1:
-                        area+=1
-                        visited.add((n_i,n_j))
-                        q.append((n_i,n_j))
-
-            self.max_area=max(self.max_area,area)  
+                r,c =q.popleft()
+                dir=[(0,1),(1,0),(-1,0),(0,-1)]
+                for dr, dc in dir:
+                    n_r, n_c = r+dr, c+dc
+                    if (n_r>=0 and n_r<m) and (n_c>=0 and n_c<n):
+                        if grid[n_r][n_c]==1 and vis_arr[n_r][n_c]!=1:
+                            area+=1
+                            vis_arr[n_r][n_c]=1
+                            q.append((n_r,n_c))
             
-            
+            return area
 
 
-        for i in range(n):
-            for j in range(m):
-                if (i,j) not in visited and grid[i][j]==1:
-                    visited.add((i,j))
-                    bfs(i,j,visited)
+        
+        MaxArea=0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j]==1 and vis_arr[i][j]!=1:
+                    a=maxArea(i,j,grid, vis_arr)
+                    MaxArea=max(MaxArea,a)
+        
+        return MaxArea
 
-        return self.max_area
         
