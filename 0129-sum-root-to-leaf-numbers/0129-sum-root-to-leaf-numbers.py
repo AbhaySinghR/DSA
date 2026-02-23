@@ -7,20 +7,21 @@
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
 
-        self.final_sum=0
-        def rsum(node,s):
 
-            if not node:
+        self.gsum=0
+        def sn(node,s):
+
+            if node is None:
+                return
+            if node.left is None and node.right is None:
+                s+=str(node.val)
+                self.gsum+=int(s)
                 return 
-            s+=str(node.val)
-            if node.left == None and node.right == None:
-                self.final_sum+=int(s)
-            else:
-                rsum(node.left, s)
-                rsum(node.right,s)
             
+            s+=str(node.val)
+            sn(node.left,s)
+            sn(node.right,s)
+        sn(root,'')
 
-        rsum(root,'')
-        return self.final_sum
-
+        return self.gsum
         
