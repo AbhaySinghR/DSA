@@ -11,26 +11,20 @@ class Solution:
         for i in range(len(inorder)):
             hmap[inorder[i]]=i
         
-        self.pre_idx=0
-
+        self.pre_id=0
+        
         def bt(left,right):
 
             if left>right:
                 return None
-
-            new_root=preorder[self.pre_idx]
-            self.pre_idx+=1
-
-            root=TreeNode(new_root)
-
-            split_idx=hmap[new_root]
-
-            root.left=bt(left,split_idx-1)
-            root.right=bt(split_idx+1,right)
-
-            return root
-        
-        return bt(0,len(inorder)-1)
-
-
             
+            root_val=preorder[self.pre_id]
+            self.pre_id+=1
+            root=TreeNode(root_val)
+            idx=hmap[root_val]
+
+            root.left=bt(left,idx-1)
+            root.right=bt(idx+1,right)
+            return root
+
+        return bt(0,len(inorder)-1)
