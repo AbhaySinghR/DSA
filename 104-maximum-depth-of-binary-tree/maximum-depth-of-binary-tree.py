@@ -8,12 +8,15 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
 
         def maxD(node):
+
             if node is None:
                 return 0
             
             l=maxD(node.left)
             r=maxD(node.right)
-            return 1 + max(l,r)
 
+            return 1 + max(l,r)
         return maxD(root)
+
+
         
