@@ -6,15 +6,22 @@
 #         self.right = right
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        def pathsum(node,csum):
-            if not node:
+
+        
+        def psum(node,sum_t):
+
+            if node is None:
                 return False
-            csum+=node.val
-            if node.left == None and node.right==None:
-                if csum==targetSum:
-                    return True
+            sum_t+=node.val
             
-            left_s=pathsum(node.left,csum)
-            right_s=pathsum(node.right,csum)
-            return left_s or right_s
-        return pathsum(root,0)
+            if node.left==None and node.right==None:
+                if sum_t==targetSum:
+                    return True
+                else:
+                    return False
+
+            l=psum(node.left,sum_t)
+            r=psum(node.right,sum_t)
+            return l or r
+        
+        return psum(root,0)
