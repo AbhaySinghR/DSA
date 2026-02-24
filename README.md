@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AbhaySinghR/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0934-shortest-bridge](https://github.com/AbhaySinghR/DSA/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AbhaySinghR/DSA/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/AbhaySinghR/DSA/tree/master/1254-number-of-closed-islands) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AbhaySinghR/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0934-shortest-bridge](https://github.com/AbhaySinghR/DSA/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AbhaySinghR/DSA/tree/master/1254-number-of-closed-islands) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/AbhaySinghR/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AbhaySinghR/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbhaySinghR/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0934-shortest-bridge](https://github.com/AbhaySinghR/DSA/tree/master/0934-shortest-bridge) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhaySinghR/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhaySinghR/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AbhaySinghR/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AbhaySinghR/DSA/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/AbhaySinghR/DSA/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/AbhaySinghR/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AbhaySinghR/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AbhaySinghR/DSA/tree/master/1254-number-of-closed-islands) |
