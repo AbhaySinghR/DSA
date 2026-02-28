@@ -7,15 +7,13 @@ class Solution:
 
         m=len(matrix)
         n=len(matrix[0])
-        vis=set()
+        
         for i in range(m):
             for j in range(n):
                 if i==j:
                     continue
-                elif (i,j) not in vis and (j,i) not in vis:
+                elif i<j:
                     matrix[i][j],matrix[j][i]=matrix[j][i],matrix[i][j]
-                    vis.add((i,j))
-                    vis.add((j,i))     
         
         k=0
         while k<m:
