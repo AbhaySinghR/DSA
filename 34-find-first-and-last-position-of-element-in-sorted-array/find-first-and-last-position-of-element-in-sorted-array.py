@@ -16,7 +16,7 @@ class Solution:
                 r=m-1
             else:
                 l=m+1
-
+        
         l=0
         r=len(nums)-1
         while l<=r:
@@ -25,9 +25,10 @@ class Solution:
                 if m==len(nums)-1 or nums[m+1]!=target:
                     end=m
                 l=m+1
-            if nums[m]>target:
+            elif nums[m]>target:
                 r=m-1
             else:
                 l=m+1
         
         return [start,end]
+
