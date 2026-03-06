@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AbhaySinghR/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhaySinghR/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhaySinghR/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AbhaySinghR/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2938-separate-black-and-white-balls](https://github.com/AbhaySinghR/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Backtracking
 |  |
