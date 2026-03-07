@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhaySinghR/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbhaySinghR/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AbhaySinghR/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AbhaySinghR/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2938-separate-black-and-white-balls](https://github.com/AbhaySinghR/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Backtracking
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhaySinghR/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AbhaySinghR/DSA/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AbhaySinghR/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union Find
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/AbhaySinghR/DSA/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/AbhaySinghR/DSA/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbhaySinghR/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AbhaySinghR/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AbhaySinghR/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Union-Find
 |  |
