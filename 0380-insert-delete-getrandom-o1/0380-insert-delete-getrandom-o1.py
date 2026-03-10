@@ -2,29 +2,32 @@ class RandomizedSet:
 
     def __init__(self):
 
-        self.s=set()
+        self.hmap={}
+        self.li=[]
         
 
     def insert(self, val: int) -> bool:
-        if val in self.s:
-            return False
-        else:
-            self.s.add(val)
-            return True
-        
 
-    def remove(self, val: int) -> bool:
-        if val in self.s:
-            self.s.remove(val)
-            return True
-        else:
+        if val in self.hmap:
             return False
+        
+        self.li.append(val)
+        self.hmap[val]=len(self.li)-1
+        return True
+        
+    def remove(self, val: int) -> bool:
+        if val not in self.hmap:
+            return False
+        
+        idx=self.hmap[val]
+        self.hmap[self.li[-1]]=idx
+        self.li[-1],self.li[idx]=self.li[idx],self.li[-1]
+        del self.hmap[val]
+        self.li.pop()
+        return True
         
     def getRandom(self) -> int:
-
-        rand_element = random.choice(list(self.s))
-        return rand_element
-
+        return random.choice(list(self.li))
         
 
 
