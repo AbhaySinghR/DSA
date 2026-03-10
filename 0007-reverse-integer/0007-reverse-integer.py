@@ -6,12 +6,18 @@ class Solution:
             while a:
                 s+=str(a%10)
                 a=a//10
-            return (-1*int(s))
+            final= (-1*int(s))
         elif x>0:
             a=x
             while a:
                 s+=str(a%10)
                 a=a//10
-            return (int(s))
+            final= (int(s))
+        else:
+            final= 0
+        
+        if -2**31<final<2**31-1:
+            return final
         else:
             return 0
+        
