@@ -2,33 +2,20 @@ class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
 
 
-        adjli={i: [] for i in range(len(isConnected))}
-
-        for i in range(len(isConnected)):
-            for j in range(len(isConnected)):
-                if isConnected[i][j]==1 and i!=j:
-                    adjli[i].append(j)
-
-        visited=set()
+        n=len(isConnected)
+        vis=set()
         cnt=0
-        
-        def dfs(i,adjli, visited):
-            visited.add(i)
-            for j in adjli.get(i,[]):
-                if j not in visited:
-                    dfs(j,adjli,visited)
-
-        for i in range(len(isConnected)):
-            if i not in visited:
-                dfs(i,adjli,visited)
+        q=deque()
+        for i in range(n):
+            if i not in vis:
                 cnt+=1
+                q.append(i)
+            
+            while q:
+                c=q.popleft()
+                for j in range(n):
+                    if isConnected[c][j]==1 and j not in vis:
+                        vis.add(j)
+                        q.append(j)
+            
         return cnt
-
-        
-        
-
-        
-
-
-
-        
