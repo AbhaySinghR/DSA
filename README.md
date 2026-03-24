@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AbhaySinghR/DSA/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/AbhaySinghR/DSA/tree/master/0482-license-key-formatting) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/AbhaySinghR/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/AbhaySinghR/DSA/tree/master/0541-reverse-string-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AbhaySinghR/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AbhaySinghR/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
