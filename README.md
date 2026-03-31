@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AbhaySinghR/DSA/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhaySinghR/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AbhaySinghR/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhaySinghR/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AbhaySinghR/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/AbhaySinghR/DSA/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/AbhaySinghR/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AbhaySinghR/DSA/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/AbhaySinghR/DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhaySinghR/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AbhaySinghR/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhaySinghR/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AbhaySinghR/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/AbhaySinghR/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhaySinghR/DSA/tree/master/0349-intersection-of-two-arrays) |
