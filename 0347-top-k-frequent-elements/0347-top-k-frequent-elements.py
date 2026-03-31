@@ -6,15 +6,16 @@ class Solution:
         for i in range(len(nums)):
             hmap[nums[i]]=hmap.get(nums[i],0)+1
         
-        a=sorted(hmap.items(),key=lambda X:X[1],reverse=True)
-        cnt=1
-        li=[]
-        for i,j in a:
-            if cnt<=k:
-                li.append(i)
-                cnt+=1
-            else:
-                break 
-        
+        heap=[]
 
+        for i,j in hmap.items():
+            heapq.heappush(heap,(-j,i))
+        
+        print (heap)
+        li=[]
+        while k>0:
+            f,ky=heapq.heappop(heap)
+            li.append(ky)
+            k-=1
+        
         return li
