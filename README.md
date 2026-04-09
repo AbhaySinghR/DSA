@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/AbhaySinghR/DSA/tree/master/1695-maximum-erasure-value) |
 | [2404-most-frequent-even-element](https://github.com/AbhaySinghR/DSA/tree/master/2404-most-frequent-even-element) |
 | [3829-design-ride-sharing-system](https://github.com/AbhaySinghR/DSA/tree/master/3829-design-ride-sharing-system) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AbhaySinghR/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AbhaySinghR/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbhaySinghR/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AbhaySinghR/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AbhaySinghR/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Merge Sort
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbhaySinghR/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhaySinghR/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2404-most-frequent-even-element](https://github.com/AbhaySinghR/DSA/tree/master/2404-most-frequent-even-element) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AbhaySinghR/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Quickselect
 |  |
 | ------- |
@@ -639,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/AbhaySinghR/DSA/tree/master/0176-second-highest-salary) |
+## Enumeration
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AbhaySinghR/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 <!---LeetCode Topics End-->
