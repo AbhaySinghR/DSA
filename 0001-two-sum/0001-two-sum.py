@@ -3,7 +3,10 @@ class Solution:
 
         hmap={}
         for i in range(len(nums)):
-            if target-nums[i] in hmap:
-                return hmap[target-nums[i]],i
+            diff = target- nums[i]
+            if diff in hmap:
+                return (hmap[diff],i)
             hmap[nums[i]]=i
+        
+
         
