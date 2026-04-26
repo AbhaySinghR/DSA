@@ -2,9 +2,9 @@ class Solution:
     def isValid(self, s: str) -> bool:
 
         st=[]
-        hmap={'(':')','{':'}','[':']'}
+        hmap={'(':')','[':']','{':'}'}
         i=0
-        while i<len(s):
+        while i < len(s):
             if s[i] in hmap:
                 st.append(s[i])
             else:
@@ -15,4 +15,7 @@ class Solution:
                 st.pop()
             i+=1
         return not st
+                
+
+
         
