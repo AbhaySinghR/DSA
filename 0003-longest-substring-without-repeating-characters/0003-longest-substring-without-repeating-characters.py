@@ -1,26 +1,22 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
 
-        if len(s)==0:
+        if len(s)<1:
             return 0
         hmap={}
-        l,r=0,0
-        max_len=float('-inf')
-        while r<len(s):
+        i,j=0,0
+        max_l=1
+        while j < len(s):
+            if s[j] in hmap:
+                max_l=max(max_l, j-i)
+                pos = hmap[s[j]]
+                i = pos + 1
+            hmap[s[j]]=j
+            j+=1
+        max_l=max(max_l, j-i)
+        return max_l    
 
-            if s[r] in hmap:
-                pos=hmap[s[r]]
-                while l<=pos:
-                    del hmap[s[l]]
-                    l+=1
-            
-            hmap[s[r]]=r
-            max_len=max(max_len,r-l+1)
-            r+=1
-        
-        return max_len
 
-            
 
 
         
