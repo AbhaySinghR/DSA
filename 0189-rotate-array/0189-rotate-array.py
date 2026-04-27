@@ -3,17 +3,34 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        k = k % len(nums)
         n=len(nums)
-        temp_li=nums[n-k:]
-        j=n-1
-        i=n-k-1
-        while i>=0:
-            nums[j]=nums[i]
+        i=0
+        j= n-1
+        k=k%n
+        while i<j:
+            temp=nums[i]
+            nums[i]=nums[j]
+            nums[j]=temp
+            i+=1
             j-=1
-            i-=1
         
-        while j>=0:
-            nums[j]=temp_li[j]
+        i=0
+        j=k-1
+        while i<j:
+            temp=nums[i]
+            nums[i]=nums[j]
+            nums[j]=temp
+            i+=1
             j-=1
+        i=k
+        j=n-1
+        while i<j:
+            temp=nums[i]
+            nums[i]=nums[j]
+            nums[j]=temp
+            i+=1
+            j-=1
+        
+
+
         
