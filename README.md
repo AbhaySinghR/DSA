@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhaySinghR/DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/AbhaySinghR/DSA/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhaySinghR/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/AbhaySinghR/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhaySinghR/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AbhaySinghR/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhaySinghR/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AbhaySinghR/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/AbhaySinghR/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/AbhaySinghR/DSA/tree/master/0542-01-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AbhaySinghR/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union Find
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AbhaySinghR/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AbhaySinghR/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/AbhaySinghR/DSA/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/AbhaySinghR/DSA/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -648,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/AbhaySinghR/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AbhaySinghR/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
